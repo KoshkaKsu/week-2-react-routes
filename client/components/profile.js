@@ -1,4 +1,3 @@
-
 import React from 'react'
 import { Link, useParams } from 'react-router-dom'
 import Head from './head'
@@ -31,11 +30,14 @@ export default Profile
 
 /*
 Внутри должно быть четыре элемента
+
 ссылка(реакт) с навигацией /dashboard и текстом "Go To Root"
 ссылка(реакт) с навигацией /dashboard/main и текстом "Go To Main"
 div с id="title" и текстом Profile
 div c id="username" и текстом, которые берется из параметра роута(см лекцию)
 надо использовать
+
 import { useParams } from 'react-router-dom'  
+
 const { username } = useParams()  
 */

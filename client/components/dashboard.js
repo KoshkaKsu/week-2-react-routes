@@ -28,6 +28,7 @@ export default Dashboard
 
 /*
 Внутри должно быть три элемента
+
 div с id="title" и текстом Dashboard
 ссылка(реакт) с навигацией /dashboard/profile/92589c47-3214-4bd9-bc56-f53706d94798 и 
 текстом "Go To Profile"
